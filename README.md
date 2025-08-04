@@ -17,6 +17,7 @@
 | [0229-majority-element-ii](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0816-design-hashset) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0054-spiral-matrix) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0031-next-permutation) |
 | [0344-reverse-string](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0344-reverse-string) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
