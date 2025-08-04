@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0054-spiral-matrix) |
@@ -57,4 +58,12 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0031-next-permutation) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
