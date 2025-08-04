@@ -14,6 +14,7 @@
 | [0169-majority-element](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0816-design-hashset](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0816-design-hashset) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | [0169-majority-element](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0816-design-hashset](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0816-design-hashset) |
 ## Union Find
 |  |
 | ------- |
@@ -74,4 +76,16 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0816-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
