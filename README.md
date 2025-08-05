@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0053-maximum-subarray) |
@@ -59,6 +60,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0229-majority-element-ii) |
 ## Counting
@@ -69,6 +71,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0031-next-permutation) |
 | [0344-reverse-string](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0344-reverse-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
