@@ -19,6 +19,7 @@
 | [0229-majority-element-ii](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0816-design-hashset) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@
 | [0229-majority-element-ii](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0816-design-hashset) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 ## Union Find
 |  |
 | ------- |
@@ -39,6 +41,7 @@
 | [0048-rotate-image](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0073-set-matrix-zeroes) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +55,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 ## Dynamic Programming
 |  |
 | ------- |
