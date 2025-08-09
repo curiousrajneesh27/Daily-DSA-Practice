@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0048-rotate-image) |
+| [3192-maximum-xor-product](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/3192-maximum-xor-product) |
 ## Simulation
 |  |
 | ------- |
@@ -110,4 +111,12 @@
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0816-design-hashset) |
+## Greedy
+|  |
+| ------- |
+| [3192-maximum-xor-product](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/3192-maximum-xor-product) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3192-maximum-xor-product](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/3192-maximum-xor-product) |
 <!---LeetCode Topics End-->
