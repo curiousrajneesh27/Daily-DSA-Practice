@@ -1,20 +1,20 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
         int n = nums.size();
-        int maxProd = nums[0], minProd = nums[0], result = nums[0];
+        int pre = 1, suff = 1;
+        int ans = INT_MIN;
         
-        for (int i = 1; i < n; i++) {
-            if (nums[i] < 0) {
-                swap(maxProd, minProd);
-            }
-            
-            maxProd = max(nums[i], maxProd * nums[i]);
-            minProd = min(nums[i], minProd * nums[i]);
-            
-            result = max(result, maxProd);
+        for (int i = 0; i < n; ++i) {
+            if (pre == 0) pre = 1;
+            if (suff == 0) suff = 1;
+            pre *= nums[i];
+            suff *= nums[n - 1 - i];
+            ans = max(ans, max(pre, suff));
         }
-        
-        return result;
+        return ans;
     }
 };
