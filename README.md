@@ -24,6 +24,7 @@
 | [0816-design-hashset](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0816-design-hashset) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3227-find-missing-and-repeated-values](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0816-design-hashset) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+| [3227-find-missing-and-repeated-values](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Union Find
 |  |
 | ------- |
@@ -45,11 +47,13 @@
 | [0054-spiral-matrix](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+| [3227-find-missing-and-repeated-values](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0048-rotate-image) |
 | [3192-maximum-xor-product](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/3192-maximum-xor-product) |
+| [3227-find-missing-and-repeated-values](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
