@@ -26,6 +26,7 @@
 | [0169-majority-element](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0816-design-hashset) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/1145-number-of-submatrices-that-sum-to-target) |
@@ -144,6 +145,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
