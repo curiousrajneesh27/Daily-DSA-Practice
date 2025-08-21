@@ -32,6 +32,7 @@
 | [0816-design-hashset](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0816-design-hashset) |
 | [0907-koko-eating-bananas](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0907-koko-eating-bananas) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3227-find-missing-and-repeated-values](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
@@ -150,6 +151,7 @@
 | [0493-reverse-pairs](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0907-koko-eating-bananas) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Indexed Tree
 |  |
 | ------- |
