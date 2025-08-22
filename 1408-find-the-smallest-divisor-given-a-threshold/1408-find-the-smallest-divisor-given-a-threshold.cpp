@@ -8,6 +8,7 @@ public:
         }
         return sum;
     }
+    
     int smallestDivisor(vector<int>& arr, int limit){
         int low = 1, high = *max_element(arr.begin(), arr.end());
         while(low <= high) {
