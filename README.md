@@ -40,6 +40,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/1646-kth-missing-positive-number) |
+| [2047-find-a-peak-element-ii](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3227-find-missing-and-repeated-values](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
@@ -66,6 +67,7 @@
 | [0074-search-a-2d-matrix](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+| [2047-find-a-peak-element-ii](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/2047-find-a-peak-element-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -175,6 +177,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/1646-kth-missing-positive-number) |
+| [2047-find-a-peak-element-ii](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/2047-find-a-peak-element-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
