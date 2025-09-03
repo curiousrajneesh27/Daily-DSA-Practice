@@ -119,12 +119,14 @@
 | [0031-next-permutation](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0344-reverse-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0014-longest-common-prefix) |
+| [0151-reverse-words-in-a-string](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0344-reverse-string) |
 ## Trie
 |  |
