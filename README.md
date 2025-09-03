@@ -75,6 +75,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0069-sqrtx) |
+| [2032-largest-odd-number-in-string](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/2032-largest-odd-number-in-string) |
 | [3192-maximum-xor-product](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/3192-maximum-xor-product) |
 | [3227-find-missing-and-repeated-values](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
@@ -128,6 +129,7 @@
 | [0014-longest-common-prefix](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0344-reverse-string) |
+| [2032-largest-odd-number-in-string](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -156,6 +158,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0410-split-array-largest-sum) |
+| [2032-largest-odd-number-in-string](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/2032-largest-odd-number-in-string) |
 | [3192-maximum-xor-product](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/3192-maximum-xor-product) |
 ## Bit Manipulation
 |  |
