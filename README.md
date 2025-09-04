@@ -50,6 +50,7 @@
 | [0073-set-matrix-zeroes](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0816-design-hashset) |
@@ -128,6 +129,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0344-reverse-string) |
 | [2032-largest-odd-number-in-string](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
