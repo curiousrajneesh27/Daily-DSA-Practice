@@ -135,6 +135,7 @@
 | [0242-valid-anagram](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0812-rotate-string) |
+| [1078-remove-outermost-parentheses](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -212,4 +213,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0812-rotate-string) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
