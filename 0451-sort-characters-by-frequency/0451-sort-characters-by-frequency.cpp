@@ -1,24 +1,32 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
-    string frequencySort(string s) {
-        unordered_map<char, int> freq;
-        for (char c : s) freq[c]++;
+    typedef pair<char, int> p;
 
-        int n = s.size();
-        vector<vector<char>> buckets(n + 1);
-        for (auto &p : freq) {
-            buckets[p.second].push_back(p.first);
+    string frequencySort(string s) {
+        vector<p> vec(123);  // store (char, frequency)
+
+        for (char &ch : s) {
+            int freq = vec[ch].second;
+            vec[ch] = {ch, freq + 1};
         }
+
+        // Sort by frequency (descending)
+        auto lambda = [&](p &p1, p &p2) {
+            return p1.second > p2.second;
+        };
+        sort(begin(vec), end(vec), lambda);
 
         string result = "";
-        for (int i = n; i > 0; i--) {
-            for (char c : buckets[i]) {
-                result.append(i, c); // repeat char 'i' times
+
+        // Append characters according to frequency
+        for (int i = 0; i <= 122; i++) {
+            if (vec[i].second > 0) {
+                char ch = vec[i].first;
+                int freq = vec[i].second;
+                result += string(freq, ch);
             }
         }
+
         return result;
     }
 };
