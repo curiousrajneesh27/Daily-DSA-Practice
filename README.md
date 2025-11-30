@@ -170,6 +170,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0816-design-hashset](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0816-design-hashset) |
 ## Design
 |  |
