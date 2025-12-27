@@ -19,7 +19,6 @@ public:
                 return slow;
             }
         }
-
         return NULL;
     }
 };
