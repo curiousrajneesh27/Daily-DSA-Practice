@@ -52,6 +52,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0229-majority-element-ii) |
@@ -142,6 +143,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
@@ -187,6 +189,7 @@
 | [0141-linked-list-cycle](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0237-delete-node-in-a-linked-list) |
