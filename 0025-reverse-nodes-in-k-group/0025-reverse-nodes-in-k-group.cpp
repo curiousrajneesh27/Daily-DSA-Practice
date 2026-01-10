@@ -1,36 +1,39 @@
 class Solution {
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
-        if (!head || k == 1) return head;
+        if (!head) return nullptr;
 
-        ListNode dummy(0);
-        dummy.next = head;
-        ListNode* prevGroup = &dummy;
-
-        while (true) {
-            // Check if there are k nodes left
-            ListNode* kth = prevGroup;
-            for (int i = 0; i < k; i++) {
-                kth = kth->next;
-                if (!kth) return dummy.next;
-            }
-
-            // Reverse k nodes
-            ListNode* groupNext = kth->next;
-            ListNode* prev = groupNext;
-            ListNode* curr = prevGroup->next;
-
-            while (curr != groupNext) {
-                ListNode* temp = curr->next;
-                curr->next = prev;
-                prev = curr;
-                curr = temp;
-            }
-
-            // Reconnect
-            ListNode* temp = prevGroup->next;
-            prevGroup->next = kth;
-            prevGroup = temp;
+        // Step 1: Check if we have at least k nodes
+        ListNode* temp = head;
+        int count = 0;
+        while (temp && count < k) {
+            temp = temp->next;
+            count++;
         }
+
+        // If nodes are less than k, return head as it is
+        if (count < k) return head;
+
+        // Step 2: Reverse k nodes
+        ListNode* prev = nullptr;
+        ListNode* curr = head;
+        ListNode* next = nullptr;
+        count = 0;
+
+        while (curr && count < k) {
+            next = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = next;
+            count++;
+        }
+
+        // Step 3: Recursively reverse remaining nodes
+        if (next) {
+            head->next = reverseKGroup(next, k);
+        }
+
+        // prev is new head after reversing k nodes
+        return prev;
     }
 };
