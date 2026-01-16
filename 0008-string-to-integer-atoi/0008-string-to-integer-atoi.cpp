@@ -1,38 +1,39 @@
 class Solution {
 public:
-    int myAtoi(string str) {
+    bool isDigit(char c) {
+        return c >= '0' && c <= '9';
+    }
+
+    int myAtoi(string s) {
         int i = 0;
-        int n = str.size();
-
-        // Step 1: skip leading spaces
-        while (i < n && str[i] == ' ') {
-            i++;
-        }
-
-        // Step 2: handle sign
+        int num = 0;
         int sign = 1;
-        if (i < n && (str[i] == '-' || str[i] == '+')) {
-            if (str[i] == '-') {
-                sign = -1;
-            }
+
+        while (i < s.length() && s[i] == ' ') {
             i++;
         }
 
-        // Step 3: convert digits
-        long ans = 0;
-        for (; i < n; i++) {
-            if (str[i] >= '0' && str[i] <= '9') {
-                int d = str[i] - '0';
-                ans = ans * 10 + d;
-
-                // Step 4: check overflow
-                if (ans * sign > INT_MAX) return INT_MAX;
-                if (ans * sign < INT_MIN) return INT_MIN;
-            } else {
-                break; // stop at first non-digit
+        if (i < s.length()) {
+            if (s[i] == '-') {
+                sign = -1;
+                i++;
+            } else if (s[i] == '+') {
+                i++;
             }
         }
 
-        return (int)(ans * sign);
+        while (i < s.length() && isDigit(s[i])) {
+            int digit = s[i] - '0';
+
+            if (num > INT_MAX / 10 ||
+               (num == INT_MAX / 10 && digit > 7)) {
+                return sign == 1 ? INT_MAX : INT_MIN;
+            }
+
+            num = num * 10 + digit;
+            i++;
+        }
+
+        return sign * num;
     }
 };
