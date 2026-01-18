@@ -87,6 +87,7 @@
 | [0048-rotate-image](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0069-sqrtx) |
+| [1922-count-good-numbers](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/1922-count-good-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/2032-largest-odd-number-in-string) |
 | [3192-maximum-xor-product](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/3192-maximum-xor-product) |
 | [3227-find-missing-and-repeated-values](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/3227-find-missing-and-repeated-values) |
@@ -286,4 +287,5 @@
 | [0050-powx-n](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
