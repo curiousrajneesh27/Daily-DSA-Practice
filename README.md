@@ -19,6 +19,7 @@
 | [0073-set-matrix-zeroes](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0118-pascals-triangle) |
@@ -219,6 +220,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0078-subsets) |
 | [3192-maximum-xor-product](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/3192-maximum-xor-product) |
 ## Binary Search
 |  |
@@ -288,4 +290,8 @@
 | [0206-reverse-linked-list](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/1922-count-good-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
