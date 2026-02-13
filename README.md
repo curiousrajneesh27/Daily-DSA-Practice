@@ -97,6 +97,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0069-sqrtx) |
@@ -237,6 +238,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0231-power-of-two) |
